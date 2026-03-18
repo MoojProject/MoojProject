@@ -9,6 +9,7 @@
  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝     ╚═╝
 ```
 
+
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Teaching+Machines+to+Think+%F0%9F%A7%A0;Building+Intelligent+Systems+%F0%9F%9A%80;Python+%7C+LLMs+%7C+Computer+Vision+%F0%9F%91%81%EF%B8%8F)](https://git.io/typing-svg)
 
